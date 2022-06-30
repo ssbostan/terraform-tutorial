@@ -19,6 +19,8 @@ Copyright 2022 Saeid Bostandoust <ssbostan@yahoo.com>
 
 ## Published articles:
 
+ - [Terraform Tutorial - Part 1 - Intro and Basic Concepts](https://itnext.io/terraform-tutorial-part-1-intro-and-basic-concepts-7a27ae7722b6)
+
 ## Contributions:
 
 All contributions are welcomed. Help me to enrich this repository.
